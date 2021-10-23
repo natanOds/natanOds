@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-My name is Natan Oliveira dos Santos. I'm from Brazil🌍. I love to code Flutter mobile Apps. 
+My name is Natan Oliveira dos Santos. I'm from Brazil🌍.
 
 
--   🔍  Currently open to new opportunities.
--   📡  At this moment I seek to collaborate with Mobile Flutter projects.
+
 
 ### Contacts!
 
