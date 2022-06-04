@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Natan Oliveira dos Santos. I'm from Brazil🌍.
+
 
 
 
