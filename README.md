@@ -1,44 +1,67 @@
 <div align="center">
- <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
- <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&duration=3000&pause=1000&color=00E5A0&center=true&vCenter=true&width=600&lines=Senior+Offensive+Security+Engineer;Red+Team+%7C+AppSec+%7C+Cloud+Pentesting;Breaking+things+legally+since+2021)](https://git.io/typing-svg)
 
+<br/>
 
-### Contacts!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natan-oliveira-dos-santos/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:natanods4@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00E5A0?style=for-the-badge&logo=github&logoColor=black)](https://natanOds.github.io)
+![Profile Views](https://komarev.com/ghpvc/?username=natanOds&style=for-the-badge&color=00e5a0)
 
- [![Linkedin Badge](https://camo.githubusercontent.com/83c27013d39c5ecc77aada3b8df26b44c0750c1c343bbcc3ddfb1cd943c96d51/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d77686974652f2f7777772e6c696e6b6564696e2e636f6d2f696e2f63756e68616465762f)](https://www.linkedin.com/in/natan-oliveira-dos-santos-b3b503129/)  [![Gmail Badge](https://camo.githubusercontent.com/369a572978486ce7b15a1a7d59a8e034392761cb091c0801bb95e1ba39e51463/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a6465762e6d617465757363756e686140676d61696c2e636f6d)](mailto:natanods4@gmail.com)
-
- <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/> 
- </div>
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
 ---
 
-### :fire: My Stats :
+### 👾 About Me
+- 🔴 **Red Team** — full-chain adversary simulation, MITRE ATT&CK emulation
+- 🌐 **AppSec** — SAST/DAST integration, secure SDLC, CI/CD pipeline security  
+- ☁️ **Cloud Pentesting** — AWS IAM abuse, Azure Entra ID, GCP privilege escalation
+- 🏰 **Active Directory** — Kerberoasting, ADCS ESC chains, DCSync, BloodHound
+- 📱 **Mobile** — iOS/Android pentesting, Frida, Objection, MobSF
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=natanOds&theme=dark&background=000000)](https://git.io/streak-stats)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natanOds&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+### 🛠️ Tools & Tradecraft
 
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square&logo=nmap&logoColor=white)
+![BloodHound](https://img.shields.io/badge/BloodHound-FF0000?style=flat-square&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nuclei](https://img.shields.io/badge/Nuclei-00E5A0?style=flat-square&logoColor=black)
 
+---
 
+### 📜 Certifications
 
+| Badge | Certification | Issuer | Status |
+|---|---|---|---|
+| 🟢 | eWPTX — Web Application Penetration Tester eXtreme | eLearnSecurity | ✅ Certified |
+| 🟢 | CRTA — Certified Red Team Analyst | Altered Security | ✅ Certified |
+| 🟢 | eJPT — Junior Penetration Tester | eLearnSecurity | ✅ Certified |
+| 🟢 | SC-900 — Microsoft Security, Compliance & Identity | Microsoft | ✅ Certified |
+| 🟡 | OSCP — Offensive Security Certified Professional | Offensive Security | 🔄 In Progress |
+
+---
+
+### 📝 Latest Writeups
+
+<!-- Atualize essa lista manualmente quando publicar novos writeups -->
+- 🔴 **[Bypassing 802.1X & Downgrading MACsec via MKPDU Suppression](https://github.com/natanOds/dot1x-macsec-bypass)** — Original Research
+- 🔵 **[Attacktive Directory](https://natanOds.github.io/writeups/attacktive-directory/)** — TryHackMe · Medium · Active Directory
+
+---
+
+### 📊 Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=natanOds&theme=dark&background=0a0c0f&ring=00e5a0&fire=00e5a0&currStreakLabel=00e5a0&border=1e2530)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natanOds&layout=compact&theme=dark&bg_color=0a0c0f&border_color=1e2530&title_color=00e5a0&text_color=c8d0dc&hide=html,css,javascript)](https://github.com/anuraghazra/github-readme-stats)
